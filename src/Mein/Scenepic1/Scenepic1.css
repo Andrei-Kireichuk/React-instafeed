@@ -1,0 +1,18 @@
+.containerPicture {
+  position: relative;
+  grid-column: 2 / 3;
+  grid-row: 1 /2;
+  margin-left: 38%;
+  transform: translateX(-50%);
+}
+.spot {
+  position: absolute;
+  top: 0px;
+  left: 0;
+}
+
+.scenepicture {
+  position: absolute;
+  top: 70px;
+  left: 50px;
+}
