@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/React-instafeed/static/css/main.0d3c0d8c.chunk.css",
+    "main.js": "/React-instafeed/static/js/main.a3b2d4cb.chunk.js",
+    "main.js.map": "/React-instafeed/static/js/main.a3b2d4cb.chunk.js.map",
+    "runtime-main.js": "/React-instafeed/static/js/runtime-main.c6fd379c.js",
+    "runtime-main.js.map": "/React-instafeed/static/js/runtime-main.c6fd379c.js.map",
+    "static/js/2.a46be52b.chunk.js": "/React-instafeed/static/js/2.a46be52b.chunk.js",
+    "static/js/2.a46be52b.chunk.js.map": "/React-instafeed/static/js/2.a46be52b.chunk.js.map",
+    "static/js/3.227f2707.chunk.js": "/React-instafeed/static/js/3.227f2707.chunk.js",
+    "static/js/3.227f2707.chunk.js.map": "/React-instafeed/static/js/3.227f2707.chunk.js.map",
+    "index.html": "/React-instafeed/index.html",
+    "static/css/main.0d3c0d8c.chunk.css.map": "/React-instafeed/static/css/main.0d3c0d8c.chunk.css.map",
+    "static/js/2.a46be52b.chunk.js.LICENSE.txt": "/React-instafeed/static/js/2.a46be52b.chunk.js.LICENSE.txt",
+    "static/media/Scenepic1.a5a306a9.png": "/React-instafeed/static/media/Scenepic1.a5a306a9.png",
+    "static/media/Scenepic2.a14a4019.png": "/React-instafeed/static/media/Scenepic2.a14a4019.png",
+    "static/media/Scenepic3.a4b0107e.png": "/React-instafeed/static/media/Scenepic3.a4b0107e.png",
+    "static/media/face.b4f76a4d.png": "/React-instafeed/static/media/face.b4f76a4d.png",
+    "static/media/line.67c11cf9.svg": "/React-instafeed/static/media/line.67c11cf9.svg",
+    "static/media/line2.21bb0cfb.svg": "/React-instafeed/static/media/line2.21bb0cfb.svg",
+    "static/media/photo.f6c8610f.png": "/React-instafeed/static/media/photo.f6c8610f.png",
+    "static/media/spot1.65ed8cb4.png": "/React-instafeed/static/media/spot1.65ed8cb4.png",
+    "static/media/spot2.6fefe3b7.png": "/React-instafeed/static/media/spot2.6fefe3b7.png",
+    "static/media/spot3.28510ac2.png": "/React-instafeed/static/media/spot3.28510ac2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6fd379c.js",
+    "static/js/2.a46be52b.chunk.js",
+    "static/css/main.0d3c0d8c.chunk.css",
+    "static/js/main.a3b2d4cb.chunk.js"
+  ]
+}
